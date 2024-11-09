@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "heading" ;
+    src: url(./fonts/Raleway-ExtraBold.ttf);
+}
+@font-face {
+    font-family:"text" ;
+    src: url(./fonts/Raleway-Regular.ttf);
+}
+* :focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.mpa{
+    font-family:"heading";
+}
+.carousel{
+    margin-top: 20px;
+}
+.cards{
+    display: flex;justify-content: center;
+    margin-top: 30px;
+}
+.h1{
+    font-family: "heading";
+}
+.card-title{
+    font-family: "heading";
+}
+.card-text{
+    font-family:"text";
+}
+.form{
+    width: 300px;
+    margin-top: 20px;
+    
+}
+..h2{
+    font-family: "heading";
+     
+}
